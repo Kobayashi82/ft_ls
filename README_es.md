@@ -1,7 +1,7 @@
 <div align="center">
 
 ![System & Kernel](https://img.shields.io/badge/System-brown?style=for-the-badge)
-![Filesystem](https://img.shields.io/badge/Filesystem-Directory%20Listing-blue?style=for-the-badge)
+![Filesystem](https://img.shields.io/badge/Filesystem-Directory-blue?style=for-the-badge)
 ![C Language](https://img.shields.io/badge/Language-C-red?style=for-the-badge)
 
 *Una reimplementacion del comando `ls` clasico*
