@@ -52,7 +52,7 @@ make
 ```
 
 ### Opciones
-| Opcion | Categoria  | Descripcion                          |
+| Opcion | Categoria | Descripcion                          |
 |--------|-----------|--------------------------------------|
 | `-a`   | Listado   | Incluir archivos ocultos             |
 | `-R`   | Listado   | Listado recursivo de subdirectorios  |
